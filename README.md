@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BTAdvanture
+- 👋 Hi, I’m Harshal
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me harshalchim@gmail.com
